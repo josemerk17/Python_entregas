@@ -1,0 +1,33 @@
+PREENTREGA 1 - ENTORNO LISTO Y PRIMER SCRIPT EJECUTADO
+
+EVIDENCIA DE EJECUCIÓN:
+
+(.venv)
+$ python evidencia_post.py
+
+--- REPORTE DE SISTEMA ---
+Post: Mi primer post en Python
+Autor: Jose Mercado
+Estado: Entorno configurado correctamente
+--------------------------
+
+ESTRUCTURA DE LA CARPETA DEL PROYECTO:
+
+entregas-python/
+├── .venv/
+├── evidencia_post.py
+└── checkpoint_modulo1.txt
+
+DESCRIPCIÓN:
+
+.venv/
+Entorno virtual utilizado para mantener aislado el proyecto de Python.
+
+evidencia_post.py
+Script utilizado para comprobar que el entorno de Python funciona correctamente.
+
+checkpoint_modulo1.txt
+Archivo de evidencia con el resultado de la ejecución del script y la estructura del proyecto.
+
+El entorno virtual (.venv) se encontraba activo al momento de ejecutar la prueba.
+El script evidencia_post.py se ejecutó correctamente y sin errores.
